@@ -1,8 +1,8 @@
 const urls = [
-    // 'https://goaxil.com/collections/ear-buds/products/gs-electronic.js',
-    // 'https://therollingstonesshop.com/products/americana-tongue-unisex-black-t-shirt.js',
-    // 'https://offhours.co/collections/shop-all/products/affogato-1.js',
-    // 'https://www.danskin.com/products/calming-slip-on-sneaker.js',
+    'https://goaxil.com/collections/ear-buds/products/gs-electronic.js',
+    'https://therollingstonesshop.com/products/americana-tongue-unisex-black-t-shirt.js',
+    'https://offhours.co/collections/shop-all/products/affogato-1.js',
+    'https://www.danskin.com/products/calming-slip-on-sneaker.js',
     'https://www.url.fail/expected-error.js',
     ];
 
