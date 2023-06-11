@@ -66,3 +66,9 @@ let numerosMultiplicados = numeros.map(numero => {
     }
 })
 ```
+
+## 10. Reducir un arreglo a un único valor: A partir del arreglo de números del ejercicio 9, utiliza el método reduce para obtener la suma de todos los números en el arreglo.
+```javascript
+const numeros = [1, 50, 2, 90, 75, 3]
+let suma = numeros.reduce((a, b) => a + b)
+```
